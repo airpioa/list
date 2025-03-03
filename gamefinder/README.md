@@ -2,28 +2,18 @@
 
 This project is a web scraper that pulls game websites from Google search results. It is designed to demonstrate how to perform web scraping using Python.
 
-## Project Structure
-
-```
-my-python-app
-├── src
-│   ├── main.py          # Entry point of the application
-│   └── utils
-│       └── scraper.py   # Contains the Scraper class for fetching and parsing results
-├── requirements.txt     # Lists the dependencies required for the project
-└── README.md            # Documentation for the project
-```
 
 ## Installation
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/my-python-app.git
+   git clone https://github.com/airpioa/list.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd my-python-app
+   cd list
+   cd gamefinder
    ```
 
 3. Install the required dependencies:
